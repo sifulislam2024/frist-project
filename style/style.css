@@ -1,0 +1,29 @@
+nav > ul > li{
+          display:inline;
+           margin-right: 15px;
+           
+}
+nav li> a{
+   
+          text-decoration: none;
+}
+footer{
+          margin-top: 30px;
+          text-align: center;
+}
+figure{
+          text-align: center;
+}
+header{
+       text-align: center;
+        
+}
+body{
+          background-color: bisque;
+}
+ 
+li{
+          text-align: right;
+}
+
+ 
